@@ -6,7 +6,7 @@ window.addEventListener('DOMContentLoaded', () => {
       progressBar.style.width = `${progress}%`;
       if (progress >= 100) {
         clearInterval(interval);
-        window.location.href = 'https://example.com'; // Replace with your target page URL
+        window.location.href = 'https://mrmedium.github.io/mainpage/'; // Replace with your target page URL
       }
     }, 129);
   });
